@@ -1,4 +1,8 @@
 # pogo-notifier
+Live real-time GPS based notification system about nearby Pokemons in Pokemon Go. You get notifications in real world as you move.
+
+Proof of concept
+https://www.youtube.com/watch?v=ri6d2Ol6WIs
 
 First install following apps on the phone (ios or android)
 
