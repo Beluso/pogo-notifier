@@ -13,6 +13,9 @@ Then you need a linux server to run Pokemongo-Map from
 
     https://github.com/AHAAAAAAA/PokemonGo-Map
 
+Run it using:
+python runserver.py -H 10.10.10.10 -P 2020 -u googleuser@gmail.com -p googlepassword -a google -l "59.9073196 10.7216128" -st 3
+
 Then you need to:
 
     Install webserver with PHP and composer (google it)
