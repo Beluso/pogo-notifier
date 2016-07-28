@@ -11,7 +11,7 @@ Then you need a linux server to run Pokemongo-Map from
 
 Then you need to:
 
-    Install webserver with PHP (google it)
+    Install webserver with PHP and composer (google it)
     Change port of the webserver to 5055
     Point Traccar Client to IP of your server with port 5055
     Place index.php file from my git so it will answer on 10.10.10.10:5055/ (usually root of the server).
